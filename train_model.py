@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 # Load Dataset
 # -----------------------------
 
-df = pd.read_csv("student_performance_600.csv")
+df = pd.read_csv("student_performance.csv")
 
 # -----------------------------
 # Feature Selection
